@@ -1,0 +1,31 @@
+2025-12-06 08:47:02 [INFO] Starting minecraft server version Beta 1.2_01
+2025-12-06 08:47:02 [INFO] Loading properties
+2025-12-06 08:47:02 [WARNING] server.properties does not exist
+2025-12-06 08:47:02 [INFO] Generating new properties file
+2025-12-06 08:47:02 [INFO] Starting Minecraft server on *:25565
+2025-12-06 08:47:02 [WARNING] Failed to load ban list: java.io.FileNotFoundException: banned-players.txt (The system cannot find the file specified)
+2025-12-06 08:47:02 [WARNING] Failed to load ip ban list: java.io.FileNotFoundException: banned-ips.txt (The system cannot find the file specified)
+2025-12-06 08:47:02 [WARNING] Failed to load ip ban list: java.io.FileNotFoundException: ops.txt (The system cannot find the file specified)
+2025-12-06 08:47:02 [INFO] Preparing level "world"
+2025-12-06 08:47:02 [INFO] Preparing start region
+2025-12-06 08:47:03 [INFO] Preparing spawn area: 28%
+2025-12-06 08:47:04 [INFO] Preparing spawn area: 52%
+2025-12-06 08:47:05 [INFO] Preparing spawn area: 73%
+2025-12-06 08:47:06 [INFO] Preparing spawn area: 93%
+2025-12-06 08:47:07 [INFO] Done! For help, type "help" or "?"
+2025-12-06 08:47:26 [INFO] Starting minecraft server version Beta 1.2_01
+2025-12-06 08:47:26 [INFO] Loading properties
+2025-12-06 08:47:26 [INFO] Starting Minecraft server on *:25565
+2025-12-06 08:47:26 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2025-12-06 08:47:26 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2025-12-06 08:47:26 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2025-12-06 08:47:26 [WARNING] To change this, set "online-mode" to "true" in the server.settings file.
+2025-12-06 08:47:26 [INFO] Preparing level "world"
+2025-12-06 08:47:26 [INFO] Preparing start region
+2025-12-06 08:47:28 [INFO] Preparing spawn area: 16%
+2025-12-06 08:47:29 [INFO] Preparing spawn area: 40%
+2025-12-06 08:47:30 [INFO] Preparing spawn area: 61%
+2025-12-06 08:47:31 [INFO] Preparing spawn area: 85%
+2025-12-06 08:47:31 [INFO] Done! For help, type "help" or "?"
+2025-12-06 08:47:37 [INFO] Hollow_Egg [/127.0.0.1:50409] logged in with entity id 897
+2025-12-06 08:48:13 [INFO] Hollow_Egg lost connection: disconnect.quitting

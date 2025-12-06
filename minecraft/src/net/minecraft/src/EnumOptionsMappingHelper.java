@@ -1,0 +1,28 @@
+package net.minecraft.src;
+
+class EnumOptionsMappingHelper {
+	static final int[] enumOptionsMappingHelperArray = new int[EnumOptions.values().length];
+
+	static {
+		try {
+			enumOptionsMappingHelperArray[EnumOptions.INVERT_MOUSE.ordinal()] = 1;
+		} catch (NoSuchFieldError var4) {
+		}
+
+		try {
+			enumOptionsMappingHelperArray[EnumOptions.VIEW_BOBBING.ordinal()] = 2;
+		} catch (NoSuchFieldError var3) {
+		}
+
+		try {
+			enumOptionsMappingHelperArray[EnumOptions.ANAGLYPH.ordinal()] = 3;
+		} catch (NoSuchFieldError var2) {
+		}
+
+		try {
+			enumOptionsMappingHelperArray[EnumOptions.LIMIT_FRAMERATE.ordinal()] = 4;
+		} catch (NoSuchFieldError var1) {
+		}
+
+	}
+}

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="jars2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../minecraft_server/jars/deobfuscated.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../minecraft_server/jars/deobfuscated-source.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
