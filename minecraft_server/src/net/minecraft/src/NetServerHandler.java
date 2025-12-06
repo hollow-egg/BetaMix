@@ -334,13 +334,6 @@ public class NetServerHandler extends NetHandler implements ICommandListener {
 		} else {
 			var2 = var2.trim();
 
-			for(int var3 = 0; var3 < var2.length(); ++var3) {
-				if(FontAllowedCharacters.field_20162_a.indexOf(var2.charAt(var3)) < 0) {
-					this.func_43_c("Illegal characters in chat");
-					return;
-				}
-			}
-
 			if(var2.startsWith("/")) {
 				this.func_4010_d(var2);
 			} else {

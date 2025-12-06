@@ -486,7 +486,6 @@ public abstract class Entity {
 		if(!this.isImmuneToFire) {
 			this.attackEntityFrom((Entity)null, var1);
 		}
-
 	}
 
 	protected void fall(float var1) {

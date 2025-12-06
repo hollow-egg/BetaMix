@@ -6,6 +6,8 @@ import java.util.ArrayList;
 import java.util.Calendar;
 import java.util.Date;
 import java.util.Random;
+
+import egg.betamix.screens.ConfigScreen;
 import org.lwjgl.opengl.GL11;
 import org.lwjgl.util.glu.GLU;
 
@@ -79,6 +81,9 @@ public class GuiMainMenu extends GuiScreen {
 			this.controlList.add(new GuiButton(4, this.width / 2 + 2, var4 + 72 + 12, 98, 20, var2.translateKey("menu.quit")));
 		}
 
+        egg.betamix.StringTranslate betaLang = egg.betamix.StringTranslate.getInstance();
+        this.controlList.add(new GuiButton(5, this.width - 50, 10, 40, 20, betaLang.translateKey("menu.config")));
+
 		if(this.mc.session == null) {
 			((GuiButton)this.controlList.get(1)).enabled = false;
 		}
@@ -105,6 +110,11 @@ public class GuiMainMenu extends GuiScreen {
 		if(var1.id == 4) {
 			this.mc.shutdown();
 		}
+
+        //betamix config
+        if (var1.id == 5){
+            this.mc.displayGuiScreen(new ConfigScreen(this));
+        }
 
 	}
 

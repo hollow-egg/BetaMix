@@ -1,5 +1,7 @@
 package net.minecraft.src;
 
+import static egg.betamix.config.Tweaks.PigsCook;
+
 public class EntityPig extends EntityAnimals {
 	public EntityPig(World var1) {
 		super(var1);
@@ -42,9 +44,12 @@ public class EntityPig extends EntityAnimals {
 		}
 	}
 
-	protected int getDropItemId() {
-		return Item.porkRaw.shiftedIndex;
-	}
+    protected int getDropItemId() {
+        if (PigsCook && worldObj.isBoundingBoxBurning(boundingBox))
+            return Item.porkCooked.shiftedIndex;
+        else
+            return Item.porkRaw.shiftedIndex;
+    }
 
 	public boolean func_21068_q() {
 		return (this.dataWatcher.getWatchableObjectByte(16) & 1) != 0;

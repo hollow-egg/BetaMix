@@ -12,6 +12,8 @@ import java.util.Iterator;
 import java.util.List;
 import java.util.logging.Level;
 import java.util.logging.Logger;
+
+import egg.betamix.Server;
 import net.minecraft.src.AxisAlignedBB;
 import net.minecraft.src.ConsoleLogManager;
 import net.minecraft.src.EntityPlayerMP;
@@ -175,6 +177,9 @@ public class MinecraftServer implements ICommandListener, Runnable {
 	}
 
 	public void run() {
+
+        Server.Init(); //betamix begin
+
 		try {
 			if(this.func_6008_d()) {
 				long var1 = System.currentTimeMillis();

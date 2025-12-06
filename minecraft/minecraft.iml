@@ -4,7 +4,95 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/game/saves/World1/0/b" />
+      <excludeFolder url="file://$MODULE_DIR$/game/saves/World1/0/c" />
+      <excludeFolder url="file://$MODULE_DIR$/game/saves/World1/0/d" />
+      <excludeFolder url="file://$MODULE_DIR$/game/saves/World1/0/e" />
+      <excludeFolder url="file://$MODULE_DIR$/game/saves/World1/0/f" />
+      <excludeFolder url="file://$MODULE_DIR$/game/saves/World1/1/b" />
+      <excludeFolder url="file://$MODULE_DIR$/game/saves/World1/1/c" />
+      <excludeFolder url="file://$MODULE_DIR$/game/saves/World1/17" />
+      <excludeFolder url="file://$MODULE_DIR$/game/saves/World1/18" />
+      <excludeFolder url="file://$MODULE_DIR$/game/saves/World1/19" />
+      <excludeFolder url="file://$MODULE_DIR$/game/saves/World1/1a" />
+      <excludeFolder url="file://$MODULE_DIR$/game/saves/World1/1b" />
       <excludeFolder url="file://$MODULE_DIR$/game/saves/World1/1c" />
+      <excludeFolder url="file://$MODULE_DIR$/game/saves/World1/1d/b" />
+      <excludeFolder url="file://$MODULE_DIR$/game/saves/World1/1d/c" />
+      <excludeFolder url="file://$MODULE_DIR$/game/saves/World1/1d/d" />
+      <excludeFolder url="file://$MODULE_DIR$/game/saves/World1/1d/e" />
+      <excludeFolder url="file://$MODULE_DIR$/game/saves/World1/1d/f" />
+      <excludeFolder url="file://$MODULE_DIR$/game/saves/World1/1e/b" />
+      <excludeFolder url="file://$MODULE_DIR$/game/saves/World1/1e/c" />
+      <excludeFolder url="file://$MODULE_DIR$/game/saves/World1/1e/d" />
+      <excludeFolder url="file://$MODULE_DIR$/game/saves/World1/1e/e" />
+      <excludeFolder url="file://$MODULE_DIR$/game/saves/World1/1e/f" />
+      <excludeFolder url="file://$MODULE_DIR$/game/saves/World1/1f/b" />
+      <excludeFolder url="file://$MODULE_DIR$/game/saves/World1/1f/c" />
+      <excludeFolder url="file://$MODULE_DIR$/game/saves/World1/1f/d" />
+      <excludeFolder url="file://$MODULE_DIR$/game/saves/World1/1f/e" />
+      <excludeFolder url="file://$MODULE_DIR$/game/saves/World1/1f/f" />
+      <excludeFolder url="file://$MODULE_DIR$/game/saves/World1/1g/b" />
+      <excludeFolder url="file://$MODULE_DIR$/game/saves/World1/1g/c" />
+      <excludeFolder url="file://$MODULE_DIR$/game/saves/World1/1g/d" />
+      <excludeFolder url="file://$MODULE_DIR$/game/saves/World1/1g/e" />
+      <excludeFolder url="file://$MODULE_DIR$/game/saves/World1/1g/f" />
+      <excludeFolder url="file://$MODULE_DIR$/game/saves/World1/1h/b" />
+      <excludeFolder url="file://$MODULE_DIR$/game/saves/World1/1h/c" />
+      <excludeFolder url="file://$MODULE_DIR$/game/saves/World1/1h/d" />
+      <excludeFolder url="file://$MODULE_DIR$/game/saves/World1/1h/e" />
+      <excludeFolder url="file://$MODULE_DIR$/game/saves/World1/1h/f" />
+      <excludeFolder url="file://$MODULE_DIR$/game/saves/World1/1i/b" />
+      <excludeFolder url="file://$MODULE_DIR$/game/saves/World1/1i/c" />
+      <excludeFolder url="file://$MODULE_DIR$/game/saves/World1/1i/d" />
+      <excludeFolder url="file://$MODULE_DIR$/game/saves/World1/1i/e" />
+      <excludeFolder url="file://$MODULE_DIR$/game/saves/World1/1i/f" />
+      <excludeFolder url="file://$MODULE_DIR$/game/saves/World1/1j/b" />
+      <excludeFolder url="file://$MODULE_DIR$/game/saves/World1/1j/c" />
+      <excludeFolder url="file://$MODULE_DIR$/game/saves/World1/1j/d" />
+      <excludeFolder url="file://$MODULE_DIR$/game/saves/World1/1j/e" />
+      <excludeFolder url="file://$MODULE_DIR$/game/saves/World1/1j/f" />
+      <excludeFolder url="file://$MODULE_DIR$/game/saves/World1/1k/b" />
+      <excludeFolder url="file://$MODULE_DIR$/game/saves/World1/1k/c" />
+      <excludeFolder url="file://$MODULE_DIR$/game/saves/World1/1k/d" />
+      <excludeFolder url="file://$MODULE_DIR$/game/saves/World1/1k/e" />
+      <excludeFolder url="file://$MODULE_DIR$/game/saves/World1/1k/f" />
+      <excludeFolder url="file://$MODULE_DIR$/game/saves/World1/1l/b" />
+      <excludeFolder url="file://$MODULE_DIR$/game/saves/World1/1l/c" />
+      <excludeFolder url="file://$MODULE_DIR$/game/saves/World1/1l/d" />
+      <excludeFolder url="file://$MODULE_DIR$/game/saves/World1/1l/e" />
+      <excludeFolder url="file://$MODULE_DIR$/game/saves/World1/1l/f" />
+      <excludeFolder url="file://$MODULE_DIR$/game/saves/World1/1m/b" />
+      <excludeFolder url="file://$MODULE_DIR$/game/saves/World1/1m/c" />
+      <excludeFolder url="file://$MODULE_DIR$/game/saves/World1/1m/d" />
+      <excludeFolder url="file://$MODULE_DIR$/game/saves/World1/1m/e" />
+      <excludeFolder url="file://$MODULE_DIR$/game/saves/World1/1m/f" />
+      <excludeFolder url="file://$MODULE_DIR$/game/saves/World1/1n/b" />
+      <excludeFolder url="file://$MODULE_DIR$/game/saves/World1/1n/c" />
+      <excludeFolder url="file://$MODULE_DIR$/game/saves/World1/1n/d" />
+      <excludeFolder url="file://$MODULE_DIR$/game/saves/World1/1n/e" />
+      <excludeFolder url="file://$MODULE_DIR$/game/saves/World1/1n/f" />
+      <excludeFolder url="file://$MODULE_DIR$/game/saves/World1/1o/b" />
+      <excludeFolder url="file://$MODULE_DIR$/game/saves/World1/1o/c" />
+      <excludeFolder url="file://$MODULE_DIR$/game/saves/World1/1o/d" />
+      <excludeFolder url="file://$MODULE_DIR$/game/saves/World1/1o/e" />
+      <excludeFolder url="file://$MODULE_DIR$/game/saves/World1/1o/f" />
+      <excludeFolder url="file://$MODULE_DIR$/game/saves/World1/1p/b" />
+      <excludeFolder url="file://$MODULE_DIR$/game/saves/World1/1p/c" />
+      <excludeFolder url="file://$MODULE_DIR$/game/saves/World1/1p/d" />
+      <excludeFolder url="file://$MODULE_DIR$/game/saves/World1/1p/e" />
+      <excludeFolder url="file://$MODULE_DIR$/game/saves/World1/1p/f" />
+      <excludeFolder url="file://$MODULE_DIR$/game/saves/World1/1q/b" />
+      <excludeFolder url="file://$MODULE_DIR$/game/saves/World1/1q/c" />
+      <excludeFolder url="file://$MODULE_DIR$/game/saves/World1/1q/d" />
+      <excludeFolder url="file://$MODULE_DIR$/game/saves/World1/1q/e" />
+      <excludeFolder url="file://$MODULE_DIR$/game/saves/World1/1q/f" />
+      <excludeFolder url="file://$MODULE_DIR$/game/saves/World1/1r/b" />
+      <excludeFolder url="file://$MODULE_DIR$/game/saves/World1/1r/c" />
+      <excludeFolder url="file://$MODULE_DIR$/game/saves/World1/1r/d" />
+      <excludeFolder url="file://$MODULE_DIR$/game/saves/World1/1r/e" />
+      <excludeFolder url="file://$MODULE_DIR$/game/saves/World1/1r/f" />
+      <excludeFolder url="file://$MODULE_DIR$/game/saves/World1/2/b" />
       <excludeFolder url="file://$MODULE_DIR$/game/texturepacks" />
     </content>
     <orderEntry type="inheritedJdk" />
@@ -12,5 +100,6 @@
     <orderEntry type="library" name="jars" level="project" />
     <orderEntry type="library" name="libraries" level="project" />
     <orderEntry type="library" name="natives" level="project" />
+    <orderEntry type="library" name="src" level="project" />
   </component>
 </module>

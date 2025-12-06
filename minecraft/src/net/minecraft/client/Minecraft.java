@@ -9,6 +9,8 @@ import java.awt.Frame;
 import java.awt.Graphics;
 import java.io.File;
 import java.nio.ByteBuffer;
+
+import egg.betamix.Client;
 import net.minecraft.src.AxisAlignedBB;
 import net.minecraft.src.Block;
 import net.minecraft.src.ChunkProviderLoadOrGenerate;
@@ -164,6 +166,9 @@ public abstract class Minecraft implements Runnable {
 	}
 
 	public void startGame() throws LWJGLException {
+
+        Client.Init(); //betamix begin
+
 		if(this.mcCanvas != null) {
 			Graphics var1 = this.mcCanvas.getGraphics();
 			if(var1 != null) {
