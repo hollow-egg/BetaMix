@@ -5,6 +5,7 @@ import java.io.*;
 public class Tweaks {
     private static String configFileName = "BetaMixTweaks.txt";
     public static boolean PigsCook = false;
+    public static boolean PigsDropSaddles = false;
 
     public static void SaveTweakConfig(){
         File file = new File(configFileName);
@@ -12,6 +13,7 @@ public class Tweaks {
             PrintWriter writer = new PrintWriter(new FileWriter(file, false));
 
             writer.println("PigsCook=" + Boolean.toString(PigsCook));
+            writer.println("PigsDropSaddles=" + Boolean.toString(PigsDropSaddles));
 
             writer.close();
         } catch (Exception var5) {
@@ -42,6 +44,10 @@ public class Tweaks {
                 if(var3[0].equals("PigsCook")) {
                     PigsCook = Boolean.parseBoolean(var3[1]);
                     System.out.println("PigsCook="+var3[1]);
+                }
+                if(var3[0].equals("PigsDropSaddles")) {
+                    PigsDropSaddles = Boolean.parseBoolean(var3[1]);
+                    System.out.println("PigsDropSaddles="+var3[1]);
                 }
             }
             var1.close();

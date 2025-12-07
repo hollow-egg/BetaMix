@@ -218,5 +218,6 @@
     <orderEntry type="library" name="libraries" level="project" />
     <orderEntry type="library" name="natives" level="project" />
     <orderEntry type="library" name="src" level="project" />
+    <orderEntry type="library" name="TooManyItems Beta 1.2" level="project" />
   </component>
 </module>

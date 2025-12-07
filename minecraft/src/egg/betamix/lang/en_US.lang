@@ -3,4 +3,5 @@ menu.config=BetaMix
 config.title=BetaMix Config
 config.save=Save
 config.back=Back
-config.PigsCook=PigsCook
+config.PigsCook=Pigs Cook
+config.PigsDropSaddles=Pigs Drop Saddles

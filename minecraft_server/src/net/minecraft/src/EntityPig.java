@@ -1,6 +1,7 @@
 package net.minecraft.src;
 
 import static egg.betamix.config.Tweaks.PigsCook;
+import static egg.betamix.config.Tweaks.PigsDropSaddles;
 
 public class EntityPig extends EntityAnimals {
 	public EntityPig(World var1) {
@@ -63,7 +64,7 @@ public class EntityPig extends EntityAnimals {
             }
         }
 
-        if (func_21065_K()){
+        if (PigsDropSaddles && func_21065_K()){
             this.dropItem(Item.saddle.shiftedIndex, 1);
         }
     }
