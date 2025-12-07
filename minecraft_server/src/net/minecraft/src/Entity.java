@@ -73,6 +73,11 @@ public abstract class Entity {
 		this.entityInit();
 	}
 
+    //betamix check
+    public boolean isOnFire(){
+        return fire > 0;
+    }
+
 	protected abstract void entityInit();
 
 	public DataWatcher getDataWatcher() {

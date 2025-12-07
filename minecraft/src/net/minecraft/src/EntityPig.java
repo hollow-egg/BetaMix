@@ -45,10 +45,27 @@ public class EntityPig extends EntityAnimals {
 	}
 
     protected int getDropItemId() {
-        if (PigsCook && worldObj.isBoundingBoxBurning(boundingBox))
-            return Item.porkCooked.shiftedIndex;
-        else
-            return Item.porkRaw.shiftedIndex;
+        return Item.porkRaw.shiftedIndex;
+    }
+
+    protected void func_21066_o() {
+        int var1 = this.rand.nextInt(3);
+
+        int var2;
+        if (PigsCook && this.isOnFire()) {
+            for (var2 = 0; var2 < var1; ++var2) {
+                this.dropItem(Item.porkCooked.shiftedIndex, 1);
+            }
+        }
+        else{
+            for (var2 = 0; var2 < var1; ++var2) {
+                this.dropItem(Item.porkRaw.shiftedIndex, 1);
+            }
+        }
+
+        if (func_21068_q()){
+            this.dropItem(Item.saddle.shiftedIndex, 1);
+        }
     }
 
 	public boolean func_21068_q() {

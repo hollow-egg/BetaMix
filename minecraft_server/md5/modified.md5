@@ -1,4 +1,6 @@
-net/minecraft/server/MinecraftServer 6f09ad8047895fa729a46bbeece734c9
+egg/betamix/config/Tweaks 1724dbcabd98c5b819866e24405f3333
+egg/betamix/Server 2d757abc5f668c0dd399c00f3cd179cc
+net/minecraft/server/MinecraftServer 80823ebc2a431034ebbb7579eeffb392
 net/minecraft/src/AxisAlignedBB 368fa12161367220e862b9717692c104
 net/minecraft/src/Block 74e417d395be6ed4e7d814e8fa62ec07
 net/minecraft/src/BlockBloodStone ea01841874902ea15f7eb309395d09ba
@@ -104,7 +106,7 @@ net/minecraft/src/EntityLiving 4bc084e3fcaf4df0c496c60b6b669c17
 net/minecraft/src/EntityMinecart a032ff97ec9ea828c0dd0f1c33d468e2
 net/minecraft/src/EntityMobs 8a44ada6f05228c71ff6cbd871b7b398
 net/minecraft/src/EntityPainting 9049a12f9183f2fa1ff75bb48a0b5bd6
-net/minecraft/src/EntityPig d0dc2af73989147eef2afbf4b7cfeff7
+net/minecraft/src/EntityPig 8cd34d224bb329e8182ac2568a22a0ba
 net/minecraft/src/EntityPigZombie aa5fed719ab96f1a0c98d61a45708d70
 net/minecraft/src/EntityPlayer 0c868122dc1bbe8769c09a44ffa9e2c3
 net/minecraft/src/EntityPlayerMP 5f19a91c214cca3d2a149a5e5230f091

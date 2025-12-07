@@ -1,4 +1,9 @@
-net/minecraft/client/Minecraft 2000bae0d9d55a1352dcc629e8477221
+egg/betamix/Client 648c2915102ce4aefc877cbcc848b18d
+egg/betamix/config/Tweaks 1724dbcabd98c5b819866e24405f3333
+egg/betamix/lang/en_US.lang 363603dd409709a59e1268a402461bbb
+egg/betamix/screens/ConfigScreen c6a6a54f74f36de576b64cdbae041ace
+egg/betamix/StringTranslate f6666012c8b5d279bf994b1c76498b2c
+net/minecraft/client/Minecraft cf64428f059a2759a1bae9adf8d852c8
 net/minecraft/client/MinecraftApplet 0a0d83b32d686355844bec5bced284c3
 net/minecraft/isom/IsomPreviewApplet f98db7d513e38779e760feac508bc25a
 net/minecraft/src/AxisAlignedBB 4e11491af123089b5ebb93e5e40939f7
@@ -126,7 +131,7 @@ net/minecraft/src/EntityNoteFX 7d0a3f6e6695cb0182c93fa36c8b3cd2
 net/minecraft/src/EntityOtherPlayerMP 8c8b4fa5c18b5e69feb14b248f9d65b7
 net/minecraft/src/EntityPainting be7a8eecd7b56e9ff1ed29c68891e655
 net/minecraft/src/EntityPickupFX 4cc92d845e6ca64699f9f1af6467381c
-net/minecraft/src/EntityPig de7fc512089b863f39401d132a3f411d
+net/minecraft/src/EntityPig 7c2cfd4612bb7df5987e16340797fdcf
 net/minecraft/src/EntityPigZombie 3ae4b0a94c9681c2267fc5e881f208ae
 net/minecraft/src/EntityPlayer 15e8bc34c658ed2d2585aea2031ee32b
 net/minecraft/src/EntityPlayerSP 111beb7e29b54a84a98af6db683a03e9
@@ -186,7 +191,7 @@ net/minecraft/src/GuiGameOver ec7e6eae5648effd98ce39a7f8c35e85
 net/minecraft/src/GuiIngame b75db3e979631d0b0e4aaa92901f78a6
 net/minecraft/src/GuiIngameMenu 537e95dd4e3dc4f02da31623c3cd4e21
 net/minecraft/src/GuiInventory 2014a3a9e676236ad15f9e94c5f9fad2
-net/minecraft/src/GuiMainMenu e2a58dffa4dafbc77bb4dcb4ecb57897
+net/minecraft/src/GuiMainMenu 3ed9e021386c84480a63183ae2832dc4
 net/minecraft/src/GuiMultiplayer a31a17fa3239bcd4154a9d60dfade24e
 net/minecraft/src/GuiOptions 07af25bf12c162620d5c8411afc677e4
 net/minecraft/src/GuiScreen b1be45d43f7b0d9fa3d0acbe4d4f1edc
